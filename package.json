@@ -1,5 +1,5 @@
 {
-  "name": "Vue CRUD Firestore Demo",
+  "name": "Vue_Firestore_Portfolio",
   "version": "1.0.0",
   "description": "A simple CRUD demonstration using Firebase Firestore and Vue",
   "author": "brandon-schabel <brandonschabel1995@gmail.com>",
@@ -12,6 +12,7 @@
   "dependencies": {
     "firebase": "^4.11.0",
     "vue": "^2.5.2",
+    "vue-router": "^3.0.1",
     "vuetify": "^1.0.0"
   },
   "devDependencies": {
