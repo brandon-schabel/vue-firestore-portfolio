@@ -1,5 +1,7 @@
 <template>
-  <h1>Testing</h1>
+  <v-toolbar class="white">
+    <v-toolbar-title v-text="TESTING">Test</v-toolbar-title>
+  </v-toolbar>
 </template>
 
 <script>
