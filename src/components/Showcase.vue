@@ -20,8 +20,8 @@
             <v-flex xs12 md4>
               <v-card class="elevation-0 transparent">
                 <v-card-text class="text-xs-center">
-
-                  <v-icon x-large class="blue--text text--lighten-2">color_lens</v-icon>
+                  <img src="../assets/React_Logo_128.png" alt="reactjs" height="128">
+                  <!-- <v-icon x-large class="blue--text text--lighten-2">color_lens</v-icon> -->
                 </v-card-text>
                 <v-card-title primary-title class="layout justify-center">
                   <div class="headline text-xs-center">ReactJS</div>
@@ -36,7 +36,8 @@
             <v-flex xs12 md4>
               <v-card class="elevation-0 transparent">
                 <v-card-text class="text-xs-center">
-                  <v-icon x-large class="blue--text text--lighten-2">flash_on</v-icon>
+                  <img src="../assets/Vue_Logo_128.png" alt="vuejs" height="128">
+                  <!--<v-icon x-large class="blue--text text--lighten-2">flash_on</v-icon>-->
                 </v-card-text>
                 <v-card-title primary-title class="layout justify-center">
                   <div class="headline">VueJS 2</div>
@@ -57,9 +58,8 @@
                   <div class="headline text-xs-center">HTML, CSS, JavaScript, Python</div>
                 </v-card-title>
                 <v-card-text>
-                  Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare.
-                  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-                  Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse potenti.
+                  Back in 2014 I had started playing around with HTML/CSS. Shortly after I had tried Python from
+                  recommendations from multiple people. I prefer to use Python for backend when possible.
                 </v-card-text>
               </v-card>
             </v-flex>
