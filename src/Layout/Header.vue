@@ -1,7 +1,9 @@
 <template>
+  <!--
   <v-toolbar dark>
     <v-toolbar-title v-text="">Test</v-toolbar-title>
   </v-toolbar>
+  -->
 </template>
 
 <script>

@@ -1,7 +1,9 @@
 <template>
   <section>
-    <v-parallax src="https://c2.staticflickr.com/8/7050/6884552675_6538271f9e_b.jpg" height="380">
+    <v-parallax src="https://c1.staticflickr.com/5/4106/5037602327_080720b766_b.jpg" height="380">
       <v-layout column align-center justify-center>
+
+        <!--
         <div class="headline white--text mb-3 text-xs-center">Web development has never been easier</div>
         <em>Kick-start your application today</em>
         <v-btn
@@ -12,6 +14,7 @@
         >
           Get Started
         </v-btn>
+        -->
       </v-layout>
     </v-parallax>
   </section>

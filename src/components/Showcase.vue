@@ -8,10 +8,8 @@
     >
       <v-flex xs12 sm4 class="my-3">
         <div class="text-xs-center">
-          <h2 class="headline">Skills</h2>
-          <span class="subheading">
-                Subheading
-              </span>
+          <h2 class="headline">Web Development Experience</h2>
+          <!-- <span class="subheading">Subheading</span> -->
         </div>
       </v-flex>
       <v-flex xs12>
@@ -52,7 +50,11 @@
             <v-flex xs12 md4>
               <v-card class="elevation-0 transparent">
                 <v-card-text class="text-xs-center">
-                  <v-icon x-large class="blue--text text--lighten-2">build</v-icon>
+                  <!-- <v-icon x-large class="blue--text text--lighten-2">build</v-icon> -->
+                  <row>
+                    <img src="../assets/CSS_HTML_Logo.png" alt="csshtml" height="128">
+                    <img src="../assets/Python_Logo_200.png" alt="python" height="128">
+                  </row>
                 </v-card-text>
                 <v-card-title primary-title class="layout justify-center">
                   <div class="headline text-xs-center">HTML, CSS, JavaScript, Python</div>
