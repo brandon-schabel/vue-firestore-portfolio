@@ -7,16 +7,6 @@
       If you would are interested in contacting me please choose from below.
     </v-card-text>
     <v-list class="transparent">
-      <!--
-      <v-list-tile>
-        <v-list-tile-action>
-          <v-icon class="blue--text text--lighten-2">phone</v-icon>
-        </v-list-tile-action>
-        <v-list-tile-content>
-          <v-list-tile-title>777-867-5309</v-list-tile-title>
-        </v-list-tile-content>
-      </v-list-tile>
-      -->
       <v-list-tile>
         <v-list-tile-action>
           <v-icon class="blue--text text--lighten-2">place</v-icon>

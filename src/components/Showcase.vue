@@ -51,10 +51,10 @@
               <v-card class="elevation-0 transparent">
                 <v-card-text class="text-xs-center">
                   <!-- <v-icon x-large class="blue--text text--lighten-2">build</v-icon> -->
-                  <row>
-                    <img src="../assets/CSS_HTML_Logo.png" alt="csshtml" height="128">
+                  <v-layout row class="python_logo">
+                    <!--<img src="../assets/CSS_HTML_Logo.png" alt="csshtml" height="128"> -->
                     <img src="../assets/Python_Logo_200.png" alt="python" height="128">
-                  </row>
+                  </v-layout>
                 </v-card-text>
                 <v-card-title primary-title class="layout justify-center">
                   <div class="headline text-xs-center">HTML, CSS, JavaScript, Python</div>
@@ -71,3 +71,11 @@
     </v-layout>
   </section>
 </template>
+
+<style>
+  .python_logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+</style>
